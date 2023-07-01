@@ -1,10 +1,13 @@
 {
     "firstName": "Tomasz",
     "lastName": "Blablabla",
+    "pictureFileName": "picture.png",
     "dateOfBirth": "01.01.1887",
     "mail": "examplemail@at.pl",
     "phoneNumber": 605005005,
     "hasProgrammingExperience": false,
+    "www": "https://github.com/myprofile-example-for-cv",
+    "languages": ["English", "Polish"],
     "education": {
         "secondarySchool": "I Liceum Ogólnokształcące",
         "college": null
