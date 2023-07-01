@@ -6,15 +6,17 @@
     "phoneNumber": 605005005,
     "hasProgrammingExperience": false,
     "education": {
-        "hiSchool": "I Liceum Ogólnokształcące",
+        "secondarySchool": "I Liceum Ogólnokształcące",
         "college": null
         },
     "jobHistory": {
-        "Apteka nr 1": {
+        "place1": {
+            "name": "Apteka nr 1",
             "beginDate": 2008,
             "endDate": 2018
             },
-        "Apteka nr 2": {
+        "place2": {
+            "name": "Apteka nr 2",
             "beginDate": 2018,
             "endDate": null
             }
