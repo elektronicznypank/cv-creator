@@ -1,0 +1,28 @@
+{
+    "firstName": "Tomasz",
+    "lastName": "Blablabla",
+    "pictureFileName": "picture.png",
+    "dateOfBirth": "01.01.1887",
+    "mail": "examplemail@at.pl",
+    "phoneNumber": 605005005,
+    "hasProgrammingExperience": false,
+    "www": "https://github.com/myprofile-example-for-cv",
+    "languages": ["English", "Polish"],
+    "education": {
+        "secondarySchool": "I Liceum Ogólnokształcące",
+        "college": null
+        },
+    "jobHistory": {
+        "place1": {
+            "name": "Apteka nr 1",
+            "beginDate": 2008,
+            "endDate": 2018
+            },
+        "place2": {
+            "name": "Apteka nr 2",
+            "beginDate": 2018,
+            "endDate": null
+            }
+        },
+    "hobbies": ["computer games", "retro hardware", "mobile technologies"]
+}
